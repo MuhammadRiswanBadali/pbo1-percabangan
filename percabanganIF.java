@@ -19,15 +19,6 @@ public class percabanganIF {
             System.out.println("sayang sekali " + nama + ", anda tidak lulus");
         }
 
-        switch(nilai/10){
-            case 9:
-                System.out.println("selamat anda mendapatkan predikat A");
-                break;
-            case 8:
-                System.out.println("selama anda mendapatkan predikat B");
-                break;
-            default:
-                System.out.println("anda tidak lulus");
-        }
+        
     }
 }
